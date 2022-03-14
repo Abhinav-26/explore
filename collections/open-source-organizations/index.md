@@ -1,5 +1,6 @@
 ---
 items:
+ - devtron-labs/devtron
  - adobe/adobe.github.com
  - redhatofficial/redhatofficial.github.io
  - cfpb/cfpb.github.io
